@@ -1,2 +1,2 @@
 FROM centoos
-RUN yum update
+RUN yum update -y
